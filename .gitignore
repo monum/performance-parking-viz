@@ -1,0 +1,8 @@
+# Mac OS
+*.DS_Store
+
+# Python
+*.py[cod]
+
+
+data/*
